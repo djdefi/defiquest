@@ -10,6 +10,6 @@ git clone https://github.com/djdefi/defiquest
 The platformer is in examples/platformer
 
 
-Qunintus
+Quintus
 ============
 Based on the totally rad Quintus project: https://github.com/cykod/Quintus
