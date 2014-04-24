@@ -1,5 +1,5 @@
 <?php
-//Hacky Heroku
+  phpinfo();
 ?>
 <iframe frameborder="0" scrolling="no" 
    src="../examples/platformer/index.html" name="gamebox" id="gamebox">
