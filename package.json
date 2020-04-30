@@ -31,7 +31,7 @@
     "grunt-contrib-yuidoc": "1.0.0",
     "grunt-exec": "0.4.7",
     "grunt-contrib-concat": "0.5.1",
-    "grunt-shell": "0.3.1",
+    "grunt-shell": "0.7.0",
     "temporary": "0.0.8",
     "aws-sdk": "2.666.0",
     "snyk": "1.315.1"
