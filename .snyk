@@ -65,3 +65,22 @@ patch:
   'npm:tunnel-agent:20170305':
     - grunt-contrib-yuidoc > yuidocjs > yui > request > tunnel-agent:
         patched: '2020-04-30T02:55:22.567Z'
+  SNYK-JS-LODASH-567746:
+    - grunt-contrib-jasmine > lodash:
+        patched: '2020-04-30T14:51:01.690Z'
+    - grunt-contrib-uglify > lodash:
+        patched: '2020-04-30T14:51:01.690Z'
+    - grunt > grunt-legacy-log > lodash:
+        patched: '2020-04-30T14:51:01.690Z'
+    - grunt > grunt-legacy-util > lodash:
+        patched: '2020-04-30T14:51:01.690Z'
+    - grunt-contrib-jshint > jshint > lodash:
+        patched: '2020-04-30T14:51:01.690Z'
+    - grunt > grunt-legacy-log > grunt-legacy-log-utils > lodash:
+        patched: '2020-04-30T14:51:01.690Z'
+    - grunt-contrib-jasmine > grunt-eslint > eslint > lodash:
+        patched: '2020-04-30T14:51:01.690Z'
+    - grunt-contrib-jasmine > grunt-eslint > eslint > inquirer > lodash:
+        patched: '2020-04-30T14:51:01.690Z'
+    - grunt-contrib-jasmine > grunt-eslint > eslint > table > lodash:
+        patched: '2020-04-30T14:51:01.690Z'
