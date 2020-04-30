@@ -114,3 +114,7 @@ patch:
         patched: '2020-04-30T15:35:47.676Z'
     - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > graphlib > lodash:
         patched: '2020-04-30T15:35:47.676Z'
+    - grunt-contrib-connect > async > lodash:
+        patched: '2020-04-30T18:39:48.130Z'
+    - grunt-contrib-connect > portscanner > async > lodash:
+        patched: '2020-04-30T18:39:48.130Z'
