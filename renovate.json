@@ -1,5 +1,20 @@
+  
 {
-  "extends": [
-    "config:base"
-  ]
+    "extends": [
+        "config:base",
+        ":automergeMinor",
+        ":automergeDigest"
+    ],
+    "packageRules": [
+        {
+            "updateTypes": [
+                "major",
+                "minor",
+                "patch",
+                "pin",
+                "digest"
+            ],
+            "automerge": true
+        }
+    ]
 }
