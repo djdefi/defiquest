@@ -26,7 +26,7 @@
     "optimist": "0.6.1",
     "grunt-contrib-uglify": "4.0.1",
     "grunt-contrib-jshint": "2.1.0",
-    "grunt-contrib-jasmine": "2.1.0",
+    "grunt-contrib-jasmine": "2.2.0",
     "grunt-contrib-connect": "2.1.0",
     "grunt-contrib-yuidoc": "1.0.0",
     "grunt-exec": "3.0.0",
