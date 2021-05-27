@@ -33,7 +33,7 @@
     "grunt-contrib-concat": "1.0.1",
     "grunt-shell": "3.0.1",
     "temporary": "1.1.0",
-    "aws-sdk": "2.915.0",
+    "aws-sdk": "2.916.0",
     "snyk": "1.613.0"
   },
   "scripts": {
