@@ -34,7 +34,7 @@
     "grunt-shell": "3.0.1",
     "temporary": "1.1.0",
     "aws-sdk": "2.956.0",
-    "snyk": "1.669.0"
+    "snyk": "1.671.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
